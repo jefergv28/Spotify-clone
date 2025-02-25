@@ -1,0 +1,6 @@
+@tailwind utilities;
+@import "tailwindcss";
+
+::-webkit-scrollbar {
+  display: none;
+}
