@@ -21,7 +21,7 @@ export const songList: Song[] = [
     genre: "Pop",
     cover_image:
       "https://www.eloriente.net/home/wp-content/uploads/2014/06/michael-jackson-billie-jean.jpg",
-    url: "../../public/song/Michael Jackson - Billie Jean (Official Video).mp3",
+    url: "/Michael Jackson - Billie Jean (Official Video).mp3",
   },
   {
     id: 2,
@@ -33,7 +33,7 @@ export const songList: Song[] = [
     genre: "Reguetón",
     cover_image:
       "https://upload.wikimedia.org/wikipedia/en/thumb/0/00/El_Cantante_del_Ghetto.jpg/220px-El_Cantante_del_Ghetto.jpg",
-    url: "../../public/song/RYAN CASTRO, ARCANGEL - PUEBLO DE MEDALLO (Video Oficial).mp3",
+    url: "/RYAN CASTRO, ARCANGEL - PUEBLO DE MEDALLO (Video Oficial).mp3",
   },
   {
     id: 3,
@@ -45,7 +45,7 @@ export const songList: Song[] = [
     genre: "Reguetón",
     cover_image:
       "https://upload.wikimedia.org/wikipedia/en/a/a4/J_Balvin_-_Amarillo.png",
-    url: "/public/song/J Balvin - Amarillo (Official Video).mp3",
+    url: "/J Balvin - Amarillo (Official Video).mp3",
   },
   {
     id: 4,
@@ -57,7 +57,7 @@ export const songList: Song[] = [
     genre: "Reguetón",
     cover_image:
       "https://i1.sndcdn.com/artworks-bTM27xETKUgVy9gE-dk8gCA-t500x500.jpg",
-    url: "/public/song/Bad-Bunny-ft.Chencho-Corleone - Me Porto-Bonito.mp3",
+    url: "/Bad-Bunny-ft.Chencho-Corleone - Me Porto-Bonito.mp3",
   },
   {
     id: 5,
@@ -80,7 +80,7 @@ export const songList: Song[] = [
     genre: "Reguetón",
     duration: { minute: 5, second: 0 },
     cover_image: "https://i.ytimg.com/vi/WTlRFmVKT0A/maxresdefault.jpg",
-    url: "/public/song/Daddy-Yankee-x-Bad-Bunny-X-Última-Vez-Official-Video.mp3",
+    url: "/Daddy-Yankee-x-Bad-Bunny-X-Última-Vez-Official-Video.mp3",
   },
   {
     id: 7,
@@ -92,7 +92,7 @@ export const songList: Song[] = [
     genre: "Hard Rock",
     cover_image:
       "https://i1.sndcdn.com/artworks-UIEy1kqjG76uH17D-ZFZ93w-t500x500.png",
-    url: "/public/song/Feid - CHORRITO PA LAS ANIMAS (Official Video).mp3",
+    url: "/Feid - CHORRITO PA LAS ANIMAS (Official Video).mp3",
   },
 ];
 
